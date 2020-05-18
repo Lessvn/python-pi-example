@@ -1,0 +1,7 @@
+.idea/*
+venv/include
+venv/lib
+.idea
+venv
+.idea/
+venv/
